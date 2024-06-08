@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  line-height: normal;
+  text-decoration: none;
+}
+
+:root {
+  /* fonts */
+  --texto: Inter;
+  --titulos: "Abhaya Libre";
+  --sobre-mi: "Abhaya Libre ExtraBold";
+  --portada: Amarante;
+
+  /* font sizes */
+  --texto-size: 24px;
+  --titulos-size: 36px;
+  --sobre-mi-size: 48px;
+  --portada-size: 108px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-darkgray: #979797;
+  --color-gainsboro: #e9e6e6;
+
+  /* Gaps */
+  --gap-8xs: 5px;
+  --gap-sm: 14px;
+
+  /* Paddings */
+  --padding-13xl: 32px;
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+}
